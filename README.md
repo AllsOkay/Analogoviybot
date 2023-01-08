@@ -6,7 +6,7 @@
 
 Скопировать код на сервер
 
-git clone https://github.com/cepxeo/school-advisor
+git clone https://github.com/AllsOkay/Analogoviybot
 
 Создать переменную TELEGRAM_TOKEN
 
